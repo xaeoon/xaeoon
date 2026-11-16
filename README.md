@@ -64,23 +64,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=7FFFD4)
 ![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=7FFFD4)
 
-</div>
 
-<br/>
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=xaeoon&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7FFFD4&icon_color=7FFFD4&text_color=FFFFFF&ring_color=7FFFD4" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaeoon&layout=compact&hide_border=true&bg_color=0D1117&title_color=7FFFD4&text_color=FFFFFF" height="160"/>
-
-</div>
-
-<br/>
-
-<div align="center">
 
 ## 📬 Contact
 
