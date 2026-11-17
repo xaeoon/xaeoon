@@ -1,9 +1,5 @@
  <!-- README.md -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,50:164E46,100:7FFFD4&height=220&section=header&text=Welcome!&fontSize=65&fontColor=7FFFD4&animation=fadeIn&fontAlignY=45" width="100%"/>
-
 ### Frontend Developer · UI/UX Designer
 
 *Designing experiences, Building interfaces.*
