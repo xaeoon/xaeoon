@@ -1,6 +1,6 @@
 <div align="center">
 
-*Frontend Developer · UI/UX Designer**
+*Frontend Developer · UI/UX Designer*
 
 <br/>
 
