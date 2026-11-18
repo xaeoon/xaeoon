@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=B897FF&height=240&section=header&text=Welcome!&fontSize=90&fontColor=0D1117&fontAlignY=52" width="100%"/>
-
 **Frontend Developer · UI/UX Designer**
 
 <br/>
