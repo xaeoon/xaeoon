@@ -28,6 +28,6 @@
 
 ### 📧 Contact
 
-[![Email](https://img.shields.io/badge/YOUR_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/YOUR_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL)
 
 </div>
