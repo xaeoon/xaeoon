@@ -1,6 +1,6 @@
  <!-- README.md -->
 
-### Frontend Developer · UI/UX Designer
+## Frontend Developer · UI/UX Designer
 
 *Designing experiences, Building interfaces.*
 
